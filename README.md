@@ -6,7 +6,8 @@ Este es el README temporal.
 
 > This repository contains data and instructions to run scripts used in different analyses of Brachypodium stacei data included in the paper:
 >
-> "Repeated migration, interbreeding, and bottlenecking  shaped the phylogeography and niche adaptation of the ancestral selfing Mediterranean grass Brachypodium stacei" by Miguel Campos Cáceres, Ernesto Pérez-Collazos, Antonio Díaz-Pérez, Diana López-Alvarez, Luis Mur, John Vogel and Pilar Catalán. 
+> "Repeated migration, interbreeding, and bottlenecking  shaped the phylogeography and niche adaptation of the ancestral selfing Mediterranean grass Brachypodium stacei" by Miguel Campos Cáceres.
+> And co-authored by Ernesto Pérez-Collazos, Antonio Díaz-Pérez, Diana López-Alvarez, Luis Mur, John Vogel and Pilar Catalán. 
 
 ## Table of Contents
 * [Environmental Niche Modeling](#environmental_niche_modeling)
