@@ -9,12 +9,12 @@ Este es el README temporal.
 ## Table of Contents
 * [Environmental Niche Modeling](#environmental_niche_modeling)
 * [Bioclimatic Table](#bioclimatic_table)
-* [Admixture](admixture)
-* [PCoA_3D_Generation](pcoa_3d_generation)
-* [DAPC_Analysis](dapc_analysis)
-* [Isolation_by_Distance](isolation_by_distance)
-* [Isolation_by_Environment](isolation_by_environment)
-* [Niche_Breath_and_Overlap](niche_breath_and_overlap)
+* [Admixture](#admixture)
+* [PCoA_3D_Generation](#pcoa_3d_generation)
+* [DAPC_Analysis](#dapc_analysis)
+* [Isolation_by_Distance](#isolation_by_distance)
+* [Isolation_by_Environment](#isolation_by_environment)
+* [Niche_Breath_and_Overlap](#niche_breath_and_overlap)
 
 ## Environmental_Niche_Modeling
 
