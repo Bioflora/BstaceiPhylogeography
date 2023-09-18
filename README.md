@@ -8,7 +8,7 @@ Este es el README temporal.
 
 ## Table of Contents
 * [Environmental Niche Modeling](#environmental_niche_modeling)
-* [Bioclimatic Table](#generate_bioclimatic_table)
+* [Bioclimatic Table](#bioclimatic_table)
 * [Admixture](admixture)
 * [PCoA_3D_Generation](pcoa_3d_generation)
 * [DAPC_Analysis](dapc_analysis)
