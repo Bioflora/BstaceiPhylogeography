@@ -1,6 +1,6 @@
 # Bstacei_RAD
 
-~Brachypodium stacei~ RAD-Seq - Campos et al. 2023
+_Brachypodium stacei_ RAD-Seq - Campos et al. 2023
 
 Este es el README temporal.
 
