@@ -17,7 +17,12 @@ Este es el README temporal.
 * [Niche_Breath_and_Overlap](#niche_breath_and_overlap)
 
 ## Environmental_Niche_Modeling
+Para introducir comandos y que salga el cuadrito lo hacemos así:
+```
+AQUI VAN LOS COMANDOS
+```
 
+Y para poner como si fueran carpetas lo hacemos con `/nombre/de/carpeta`
 ## Bioclimatic_Table
 
 ## Admixture
