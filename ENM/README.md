@@ -23,7 +23,11 @@ Aditionaly to this, you may nedd to download the bioclimatic rasters, the curren
 https://www.worldclim.org/data/worldclim21.html
 
 ## Bioclimatic_Table
-
-## Admixture
+In order to generate a bioclimatic table with the values of all variables for our populations we need the following:
+- `Coordinates.csv` that contains the coordinates and the name of our populations
+- `Bioclimatic_Table.R` the main script to generate the table
 
 ## PCA
+To generate the bioclimatic PCA and detect potential climatic groupings we need 2 files:
+- `Table_Sta.csv` the table generated previously with the values for all our populations.
+- `PCA.R` the main script to generate the PCA and save the plots.
