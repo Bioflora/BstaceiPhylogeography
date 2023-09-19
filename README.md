@@ -11,14 +11,19 @@ Este es el README temporal.
 > And co-authored by Ernesto Pérez-Collazos, Antonio Díaz-Pérez, Diana López-Alvarez, Luis Mur, John Vogel and Pilar Catalán. 
 
 ## Table of Contents
-* [ENM, niche breath, overlap and Bioclimatic analysis](#environmental_niche_modeling)
+* [ENM analysis](#enm_analysis)
 * [Admixture](#admixture)
 * [PCoA 3D Generation](#pcoa_3d_generation)
 * [DAPC Analysis](#dapc_analysis)
 * [Isolation by Distance](#isolation_by_distance)
 * [Isolation by Environment](#isolation_by_environment)
 
-## ENM, niche breath, overlap and Bioclimatic analysis
+## ENM analysis
+In this section you can find the inputs and scripts used for:
+- Environmental niche models (current and past projections)
+- Bioclimatic table with the values per population
+- PCA generation using bioclimatic variables
+- Niche breath and overlap analysis.
 
 Para introducir comandos y que salga el cuadrito lo hacemos así:
 ```
