@@ -1,0 +1,11 @@
+Pop	Latitude	Longitude
+Canaries	-15.35	28.625
+Mallorca	2.9295	39.67725
+Sicily	12.845	38.059
+Greece	22.853	37.262
+Israel	35.1365	32.1265
+Jaen	-2.9135	37.98
+Alicante	-0.219	38.756
+Almeria	-2.143	36.734
+Tunisia	10.333	33.1
+Morocco	-9.753	31.248
