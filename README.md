@@ -11,15 +11,14 @@ Este es el README temporal.
 > And co-authored by Ernesto Pérez-Collazos, Antonio Díaz-Pérez, Diana López-Alvarez, Luis Mur, John Vogel and Pilar Catalán. 
 
 ## Table of Contents
-* [Environmental Niche Modeling](#environmental_niche_modeling)
-* [Bioclimatic Table](#bioclimatic_table)
+* [ENM, niche breath, overlap and Bioclimatic analysis](#environmental_niche_modeling)
 * [Admixture](#admixture)
-* [PCoA_3D_Generation](#pcoa_3d_generation)
-* [DAPC_Analysis](#dapc_analysis)
-* [Isolation_by_Distance](#isolation_by_distance)
-* [Isolation_by_Environment](#isolation_by_environment)
+* [PCoA 3D Generation](#pcoa_3d_generation)
+* [DAPC Analysis](#dapc_analysis)
+* [Isolation by Distance](#isolation_by_distance)
+* [Isolation by Environment](#isolation_by_environment)
 
-## Environmental_Niche_Modeling
+## ENM, niche breath, overlap and Bioclimatic analysis
 
 Para introducir comandos y que salga el cuadrito lo hacemos así:
 ```
@@ -27,7 +26,6 @@ AQUI VAN LOS COMANDOS
 ```
 
 Y para poner como si fueran carpetas lo hacemos con `/nombre/de/carpeta`
-## Bioclimatic_Table
 
 ## Admixture
 
