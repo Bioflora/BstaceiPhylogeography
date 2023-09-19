@@ -24,4 +24,6 @@ In this section you can find the input and the script used to generate a 3D PCoA
 In this section you can find the input and the script used to generate a DAPC analysis used in the plastomic data (Discriminant Analysis of Principal Components).
 
 ### MantelTest
-In this section you can find the input and the script used to perform the mantel test used in the isolation by distance and isolation by environment analysis.
+In this section you can find the input and the script used to perform the mantel test used for:
+- Isolation by distance analysis
+- Isolation by environment analysis.
