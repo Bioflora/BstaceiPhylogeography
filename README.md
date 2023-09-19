@@ -2,8 +2,6 @@
 
 *Brachypodium stacei* RAD-Seq - Campos et al. 2023
 
-Este es el README temporal.
-
 > This repository contains data and instructions to run scripts used in different analyses of *Brachypodium stacei* data included in the paper:
 >
 > "Repeated migration, interbreeding, and bottlenecking  shaped the phylogeography and niche adaptation of the ancestral selfing Mediterranean grass *Brachypodium stacei*" by Miguel Campos Cáceres.
@@ -11,34 +9,19 @@ Este es el README temporal.
 > And co-authored by Ernesto Pérez-Collazos, Antonio Díaz-Pérez, Diana López-Alvarez, Luis Mur, John Vogel and Pilar Catalán. 
 
 ## Table of Contents
-* [ENM analysis](#enm_analysis)
-* [Admixture](#admixture)
-* [PCoA 3D Generation](#pcoa_3d_generation)
-* [DAPC Analysis](#dapc_analysis)
-* [Isolation by Distance](#isolation_by_distance)
-* [Isolation by Environment](#isolation_by_environment)
-
-## ENM_analysis
+### ENM_analysis
 In this section you can find the inputs and scripts used for:
 - Environmental niche models (current and past projections)
 - Bioclimatic table with the values per population
 - PCA generation using bioclimatic variables
 - Niche breath and overlap analysis.
+### Admixture
 
-Para introducir comandos y que salga el cuadrito lo hacemos así:
-```
-AQUI VAN LOS COMANDOS
-```
+### PcoA_3D_Generation
 
-Y para poner como si fueran carpetas lo hacemos con `/nombre/de/carpeta`
+### DAPC_Analysis
 
-## Admixture
+### Isolation_by_Distance
 
-## PcoA_3D_Generation
-
-## DAPC_Analysis
-
-## Isolation_by_Distance
-
-## Isolation_by_Environment
+### Isolation_by_Environment
 
