@@ -19,13 +19,14 @@ For the environmental niche modeling, we need 3 files:
 - `ENM_MC.R` the main script with all the commands used in R, includes the niche breadth and overlap.
 - `functionsENM.r`contains the functions used for bootstrap analysis.
 
-Additionally to this, you may need to download the bioclimatic rasters, the current layers can be download using the command line (included in the R script) but the past projections had to be downloaded directly from WorldClim:
+Additionally to, you may need to download the bioclimatic rasters, the current layers can be downloaded using the command line (included in the R script) but the past projections had to be downloaded directly from WorldClim:
 https://www.worldclim.org/data/worldclim21.html
 
 ## Bioclimatic_Table
 In order to generate a bioclimatic table with the values of all variables for our populations we need the following:
 - `Coordinates.csv` that contains the coordinates and the name of our populations
 - `Bioclimatic_Table.R` is the main script to generate the table
+After obtaining the table, the script has the statistical comparison of the variables.
 
 ## PCA
 To generate the bioclimatic PCA and detect potential climatic groupings we need 2 files:
