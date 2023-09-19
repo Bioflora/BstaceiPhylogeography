@@ -18,7 +18,6 @@ Este es el README temporal.
 * [DAPC_Analysis](#dapc_analysis)
 * [Isolation_by_Distance](#isolation_by_distance)
 * [Isolation_by_Environment](#isolation_by_environment)
-* [Niche_Breath_and_Overlap](#niche_breath_and_overlap)
 
 ## Environmental_Niche_Modeling
 
@@ -40,4 +39,3 @@ Y para poner como si fueran carpetas lo hacemos con `/nombre/de/carpeta`
 
 ## Isolation_by_Environment
 
-## Niche_Breath_and_Overlap
