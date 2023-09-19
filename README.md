@@ -18,7 +18,7 @@ Este es el README temporal.
 * [Isolation by Distance](#isolation_by_distance)
 * [Isolation by Environment](#isolation_by_environment)
 
-## ENM analysis
+## ENM_analysis
 In this section you can find the inputs and scripts used for:
 - Environmental niche models (current and past projections)
 - Bioclimatic table with the values per population
