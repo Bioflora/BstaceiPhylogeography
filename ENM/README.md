@@ -1,6 +1,6 @@
-# ENM, niche breath, overlap and Bioclimatic analysis
+# ENM, niche breadth, overlap, and Bioclimatic analysis
 
-In this section you can find the scripts and input data for the environmental niche analysis.
+In this section, you can find the scripts and input data for the environmental niche analysis.
 
 > This repository contains data and instructions to run scripts used in different analyses of *Brachypodium stacei* data included in the paper:
 >
@@ -14,20 +14,20 @@ In this section you can find the scripts and input data for the environmental ni
 * [PCA](#pca)
 
 ## Environmental_Niche_Modeling
-For the environmental niche modeling we need 3 files: 
+For the environmental niche modeling, we need 3 files: 
 - `Coordinates.csv` that contains the name of populations, and the coordinates of each one.
-- `ENM_MC.R` the main script with all the commands used in R, includes the niche breath and overlap.
+- `ENM_MC.R` the main script with all the commands used in R, includes the niche breadth and overlap.
 - `functionsENM.r`contains the functions used for bootstrap analysis.
 
-Aditionaly to this, you may nedd to download the bioclimatic rasters, the current layers can be download using command line (included in the R script) but the past projections had to be downloaded directly from WorldClim:
+Additionally to this, you may need to download the bioclimatic rasters, the current layers can be download using the command line (included in the R script) but the past projections had to be downloaded directly from WorldClim:
 https://www.worldclim.org/data/worldclim21.html
 
 ## Bioclimatic_Table
 In order to generate a bioclimatic table with the values of all variables for our populations we need the following:
 - `Coordinates.csv` that contains the coordinates and the name of our populations
-- `Bioclimatic_Table.R` the main script to generate the table
+- `Bioclimatic_Table.R` is the main script to generate the table
 
 ## PCA
 To generate the bioclimatic PCA and detect potential climatic groupings we need 2 files:
 - `Table_Sta.csv` the table generated previously with the values for all our populations.
-- `PCA.R` the main script to generate the PCA and save the plots.
+- `PCA.R` is the main script to generate the PCA and save the plots.
