@@ -1,0 +1,16 @@
+Ind	Pop
+Alicante2(Bsta5)	Alicante
+Mallorca2(CAMPA)	Mallorca
+Mallorca4(BONA)	Mallorca
+Sicily1(QVL1)	Sicily
+Greece1(BG15)	Greece
+Morocco1(Ourich)	Morocco
+Canaries1(TE4.3)	Canaries
+Canaries2(LP6.1)	Canaries
+Israel1(Bra89)	Israel
+Mallorca1(ARTA)	Mallorca
+Sicily2(VMO1)	Sicily
+Mallorca3(DRAGO891)	Mallorca
+Tunisia1(Hada)	Tunisia
+Almeria1(MONSUL)	Almeria
+Jaen2(BJAE2)	Jaen
