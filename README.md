@@ -9,21 +9,25 @@
 > And co-authored by Ernesto Pérez-Collazos, Antonio Díaz-Pérez, Diana López-Alvarez, Luis Mur, John Vogel and Pilar Catalán. 
 
 ## Table of Contents
+### Admixture
+In this section you can find the input and the script used to generate the Admixture input file and run the program.
+
+### DAPC
+In this section you can find the input and the script used to generate a DAPC analysis used in the plastomic data (Discriminant Analysis of Principal Components).
+
 ### ENM
 In this section you can find the inputs and scripts used for:
 - Environmental niche models (current and past projections)
 - Bioclimatic table with the values per population
 - PCA generation using bioclimatic variables
 - Niche breath and overlap analysis.
-### Admixture
-In this section you can find the input and the script used to generate the Admixture input file and run the program.
-### PcoA
-In this section you can find the input and the script used to generate a 3D PCoA (principal coordinates analysis).
-
-### DAPC
-In this section you can find the input and the script used to generate a DAPC analysis used in the plastomic data (Discriminant Analysis of Principal Components).
 
 ### MantelTest
 In this section you can find the input and the script used to perform the mantel test used for:
 - Isolation by distance analysis
 - Isolation by environment analysis.
+  
+### PcoA
+In this section you can find the input and the script used to generate a 3D PCoA (principal coordinates analysis).
+
+
