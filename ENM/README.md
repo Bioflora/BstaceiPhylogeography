@@ -2,7 +2,7 @@
 
 In this section, you can find the scripts and input data for the environmental niche analysis.
 
-> This repository contains data and instructions to run scripts used in different analyses of *Brachypodium stacei* data included in the paper:
+> This repository contains data and instructions to run scripts used in different analyses of *Brachypodium stacei* data included in the paper: 
 >
 > "Repeated migration, interbreeding, and bottlenecking  shaped the phylogeography and niche adaptation of the ancestral selfing Mediterranean grass *Brachypodium stacei*" by Miguel Campos Cáceres.
 >
