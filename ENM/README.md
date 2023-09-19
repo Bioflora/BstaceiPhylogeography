@@ -1,6 +1,6 @@
 # ENM, niche breath, overlap and Bioclimatic analysis
 
-*In this section you can find the scripts and input data for the environmental niche analysis.
+* In this section you can find the scripts and input data for the environmental niche analysis.
 
 > This repository contains data and instructions to run scripts used in different analyses of *Brachypodium stacei* data included in the paper:
 >
