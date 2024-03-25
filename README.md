@@ -9,8 +9,8 @@
 > And co-authored by Ernesto Pérez-Collazos, Antonio Díaz-Pérez, Diana López-Alvarez, Luis Mur, John Vogel and Pilar Catalán. 
 
 ## Table of Contents
-### Admixture
-In this section you can find the input and the script used to generate the Admixture input file and run the program.
+### Admixture & LD filtering
+In this section you can find the input and the script used to generate the filtered vcf file and the Admixture input file and run the program.
 
 ### DAPC
 In this section you can find the input and the script used to generate a DAPC analysis used in the plastomic data (Discriminant Analysis of Principal Components).
