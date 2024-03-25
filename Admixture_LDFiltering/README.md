@@ -1,6 +1,6 @@
 # Admixture analysis and LD filtering
 
-In this section you can find the scripts used and input file for admixture analysis.
+In this section you can find the scripts used file for LD prunning and admixture analysis.
 
 > This repository contains data and instructions to run scripts used in different analyses of *Brachypodium stacei* data included in the paper:
 >
