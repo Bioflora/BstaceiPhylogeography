@@ -10,7 +10,7 @@
 
 ## Table of Contents
 ### Admixture & LD filtering
-In this section you can find the input and the script used to generate the filtered vcf file and the Admixture input file and run the program.
+In this section you can find the commands used to generate the filtered vcf file and the Admixture input file and run the program.
 
 ### DAPC
 In this section you can find the input and the script used to generate a DAPC analysis used in the plastomic data (Discriminant Analysis of Principal Components).
